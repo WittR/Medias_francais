@@ -76,7 +76,7 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 70	Lagardère Active	100	Europe 1	lagardere.com	31/12/2015	14/05/2016
 70	Lagardère Active	100	RFM	lagardere.com	31/12/2015	14/05/2016
 70	Lagardère Active	100	Virgin Radio	lagardere.com	31/12/2015	14/05/2016
-77	Vincent Bolloré	49,77	Financière de l'Odet			
+77	Vincent Bolloré	49,77	Financière de l‘Odet			
 78	Financière de l‘Odet	64,4	Bolloré			
 79	Bolloré	100	CNews matin	bollore.com, vivendi.com, ozap.com	31/12/2015, 21/04/2017, 31/12/2015	28/06/2016 , 10/10/2016
 79	Bolloré	20,65	Vivendi	bollore.com, vivendi.com, ozap.com	31/12/2015, 21/04/2017, 31/12/2015	28/06/2016 , 10/10/2016
@@ -273,12 +273,12 @@ id	origine	valeur	cible	source	datePublication	dateConsultation
 280	Groupe La Provence	65	Corse Matin	latribune.fr	18/3/2018	22/07/2018
 280	Groupe La Provence	100	La Provence	lesechos.fr	30/10/2015	06/05/2016
 284	Jean-Louis Louvel	100	Société Normande d'Information et de Communication	parisnormandie.fr	07/07/2017	
-285	Société Normande d’Information et de Communication	100	Paris-Normandie	lesechos.fr, wikipedia.org	05/04/2016	06/05/2016
-285	Société Normande d’Information et de Communication	100	Havre Libre	lesechos.fr, wikipedia.org	05/04/2016	06/05/2016
-285	Société Normande d’Information et de Communication	100	Le Progrès de Fécamp	lesechos.fr, wikipedia.org	05/04/2016	06/05/2016
-285	Société Normande d’Information et de Communication	100	Liberté Dimanche	lesechos.fr, wikipedia.org	05/04/2016	06/05/2016
-285	Société Normande d’Information et de Communication	100	Havre Dimanche	lesechos.fr, wikipedia.org	05/04/2016	06/05/2016
-285	Société Normande d’Information et de Communication	100	Normandie Dimanche	lesechos.fr, wikipedia.org	05/04/2016	06/05/2016
+285	Société Normande d'Information et de Communication	100	Paris-Normandie	lesechos.fr, wikipedia.org	05/04/2016	06/05/2016
+285	Société Normande d'Information et de Communication	100	Havre Libre	lesechos.fr, wikipedia.org	05/04/2016	06/05/2016
+285	Société Normande d'Information et de Communication	100	Le Progrès de Fécamp	lesechos.fr, wikipedia.org	05/04/2016	06/05/2016
+285	Société Normande d'Information et de Communication	100	Liberté Dimanche	lesechos.fr, wikipedia.org	05/04/2016	06/05/2016
+285	Société Normande d'Information et de Communication	100	Havre Dimanche	lesechos.fr, wikipedia.org	05/04/2016	06/05/2016
+285	Société Normande d'Information et de Communication	100	Normandie Dimanche	lesechos.fr, wikipedia.org	05/04/2016	06/05/2016
 292	Philippe Hersant	100	Éditions Suisses Holding			
 292	Philippe Hersant	100	Groupe Hersant Média			
 293	Éditions Suisses Holding	>50	Groupe Filanosa			

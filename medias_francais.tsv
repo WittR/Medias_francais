@@ -283,9 +283,10 @@ id	nom	typeLibelle	typeCode	rangChallenges	mediaType	mediaPeriodicite	mediaEchel
 282	Corse Matin	Média	3		Régional	Quotidien	Régional	
 283	La Provence	Média	3		Régional	Quotidien	Régional	
 284	Jean-Louis Louvel	Personne physique	1					
-285	Société Normande d’Information et de Communication	Personne morale	2					
+285	Société Normande d'Information et de Communication	Personne morale	2					
 286	Paris-Normandie	Média	3		Régional	Quotidien	Régional	
 287	Havre Libre	Média	3		Régional	Quotidien	Régional	
+288	Le Progrès de Fécamp	Média	3		Régional	Quotidien	Régional	
 288	Le Progrès de Fécamp	Média	3		Régional	Quotidien	Régional	
 289	Liberté Dimanche	Média	3		Régional	Hebdomadaire	Régional	
 290	Havre Dimanche	Média	3		Régional	Hebdomadaire	Régional	

@@ -1,0 +1,324 @@
+id	nom	typeLibelle	rangChallenges	commentaire	mediaType	mediaPeriodicite	mediaEchelle
+0	Claude Perdriel	PersonePhysique	359				
+1	Sophia Publications	PersoneMorale					
+2	Groupe Perdriel	PersoneMorale					
+3	L'histoire	Media			GPE	Mensuel	
+4	Historia	Media			GPE	Mensuel	
+5	Challenges	Media			GPE	Hebdomadaire	
+6	Sciences & Avenir	Media			GPE	Mensuel	
+7	L'Opinion	Media			GPE	Quotidien	
+8	Prisa	PersoneMorale					
+9	Xavier Niel	PersonePhysique	13				
+10	Matthieu Pigasse	PersonePhysique					
+11	Les Nouvelles Éditions indépendantes	PersoneMorale					
+12	Le Nouveau Monde	PersoneMorale					
+13	Le Monde libre	PersoneMorale					
+14	Le Monde SA	PersoneMorale					
+15	L'Obs	Media			GPE	Hebdomadaire	
+16	Prier	Media			GPE	Mensuel	
+17	M, le magazine du Monde	Media			GPE	Hebdomadaire	
+18	Le Monde	Media			GPE	Hebdomadaire	
+19	Télérama	Media			GPE	Mensuel	
+20	Courrier international	Media			GPE	Hebdomadaire	
+21	Le Monde des religions	Media			GPE	Mensuel	
+22	La Vie	Media			GPE	Hebdomadaire	
+23	Le Monde diplomatique	Media			GPE	Mensuel	
+24	Manière de voir	Media			GPE	Bimestriel	
+25	Huffingtonpost.fr	Media		Pure player	Site		
+26	AOL	PersoneMorale					
+27	Huffington Post	PersoneMorale					
+28	Les Nouvelles Éditions	PersoneMorale					
+29	Radio Nova	Media			Radio		National
+30	Les Inrockuptibles	Media			GPE	Hebdomadaire	
+31	Vice.com	Media		Pure player	Site		
+32	Les Amis du Monde diplomatique	PersoneMorale					
+33	Association Günter-Holzmann	PersoneMorale					
+34	Famille Dassault	PersonePhysique	7				
+35	Groupe Dassault	PersoneMorale					
+36	Groupe Figaro	PersoneMorale					
+37	Le Figaro	Media			GPE	Quotidien	
+38	Figaro Magazine	Media			GPE	Hebdomadaire	
+39	Le Particulier	Media			GPE	Mesuel	
+40	La Lettre de l'Expansion	Media			GPE	Mensuel	
+41	Bernard Arnault	PersonePhysique	1				
+42	LVMH	PersoneMorale					
+43	Le Parisien	Media			GPE	Quotidien	
+44	Le Parisien Week-End	Media			GPE	Hebdomadaire	
+45	Le Parisien économie	Media			GPE	Hebdomadaire	
+46	Aujourd'hui en France	Media			GPE	Quotidien	
+47	Groupe Les Échos	PersoneMorale					
+48	Les Échos	Media			GPE	Quotidien	
+49	Investir	Media			GPE	Hebdomadaire	
+50	Investir Magazine	Media			GPE	Mensuel	
+51	Les Échos Week-End	Media			GPE	Hebdomadaire	
+52	Radio Classique	Media			Radio	National	
+53	Famille Bettencourt	PersonePhysique	4				
+54	Nicolas Beytout	PersonePhysique					
+55	Patrick Drahi	PersonePhysique	12				
+56	Altice	PersoneMorale					
+57	Altice France	PersoneMorale					
+58	L'Express	Media			GPE	Hebdomadaire	
+59	Libération	Media			GPE	Quotidien	
+60	NextRadioTV	PersoneMorale					
+61	BFM TV	Media		Gratuit	Télévision		
+62	RMC Découverte	Media		Gratuit	Télévision		
+63	RMC	Media			Radio		National
+64	BFM Business	Media			Radio		National
+65	Numéro 23	Media		Gratuit	Télévision		
+66	Arnaud Lagardère	PersonePhysique	361				
+67	Qatar Investment Authority	PersoneMorale					
+68	Lagardère SCA	PersoneMorale					
+69	Lagardère Active	PersoneMorale					
+70	Le Journal du dimanche	Media			GPE	Hebdomaire	
+71	Paris Match	Media			GPE	Hebdomaire	
+72	Gulli	Media		Gratuit	Télévision		
+73	Europe 1	Media			Radio		National
+74	RFM	Media			Radio		National
+75	Virgin Radio	Media			Radio		National
+76	Vincent Bolloré	PersonePhysique	11				
+77	Financière de l‘Odet	PersoneMorale					
+78	Bolloré	PersoneMorale					
+79	CNews matin	Media			GPE	Quotidien	
+80	Vivendi	PersoneMorale					
+81	Canal +	Media		Semi-payant	Télévision		
+82	C8	Media		Gratuit	Télévision		
+83	CNews	Media		Gratuit	Télévision		
+84	CStar	Media		Gratuit	Télévision		
+85	Iskandar Safa	PersonePhysique	81				
+86	Privinvest	PersoneMorale					
+87	Groupe Valmonde	PersoneMorale					
+88	Valeurs actuelles	Media			GPE	Hebdomadaire	
+89	Mieux vivre votre argent	Media			GPE	Mensuel	
+90	Yves de Chaisemartin	PersonePhysique					
+91	Daniel Křetínský	PersonePhysique	5	Pour la République tchèque (Daniel Křetínský) : Forbes 2018			
+92	Czech Media Invest	PersoneMorale					
+93	Marianne	Media			GPE	Hebdomadaire	
+94	François Pinault	PersonePhysique	6				
+95	Artémis	PersoneMorale					
+96	Groupe Sebdo-Le Point	PersoneMorale					
+97	Groupe L’Agefi	PersoneMorale					
+98	Point de vue	Media			GPE	Hebdomadaire	
+99	Le Point	Media			GPE	Hebdomadaire	
+100	L'Agefi hebdo	Media			GPE	Hebdomadaire	
+101	Famille Mohn	PersonePhysique	39				
+102	Bertelsmann	PersoneMorale					
+103	Gruner + Jahr	PersoneMorale					
+104	RTL Group	PersoneMorale					
+105	Prisma Media	PersoneMorale					
+106	Capital	Media			GPE	Mensuel	
+107	Management	Media			GPE	Mensuel	
+108	Harvard Business Review	Media			GPE	Bimestriel	
+109	Groupe M6	PersoneMorale					
+110	M6	Media		Gratuit	Télévision		
+111	W9	Media		Gratuit	Télévision		
+112	6ter	Media		Gratuit	Télévision		
+113	RTL	Media			Radio	National	
+114	RTL2	Media			Radio	National	
+115	Fun Radio	Media			Radio	National	
+116	Georges Ghosn	PersonePhysique					
+117	Ghosn Capital	PersoneMorale					
+118	VSD	Media			GPE	Mensuel	
+119	Martin et Olivier Bouygues	PersonePhysique	28				
+120	Bouygues	PersoneMorale					
+121	Groupe TF1	PersoneMorale					
+122	TF1	Media		Gratuit	Télévision		
+123	TFX	Media		Gratuit	Télévision		
+124	LCI	Media		Gratuit	Télévision		
+125	TF1 Séries Films	Media		Gratuit	Télévision		
+126	TMC	Media		Gratuit	Télévision		
+127	République française	Etat					
+128	République fédérale d’Allemagne	Etat					
+129	Renault	PersoneMorale					
+130	La Chaîne parlementaire	Media		Gratuit	Télévision		
+131	Public Sénat	Media		Gratuit	Télévision		
+132	France Médias Monde	PersoneMorale					
+133	France Télévision	PersoneMorale					
+134	Radio France	PersoneMorale					
+135	Arte France	PersoneMorale					
+136	Monte Carlo Doualiya	Media			Radio		International
+137	Radio France International	Media			Radio		International
+138	France 24	Media			Télévision		International
+139	TV5 Monde	Media			Télévision		International
+140	France 2	Media		Gratuit	Télévision		
+141	France 3	Media		Gratuit	Télévision		
+142	France 5	Media		Gratuit	Télévision		
+143	France 4	Media		Gratuit	Télévision		
+144	France Ô	Media		Gratuit	Télévision		
+145	France info	Media		Gratuit	Télévision/radio		
+146	France Inter	Media			Radio		National
+147	France Musique	Media			Radio		National
+148	France Culture	Media			Radio		National
+149	FIP	Media			Radio		National
+150	France Bleu	Media			Radio		National
+151	France Info	Media			Radio		National
+152	Mouv'	Media			Radio		National
+153	Arte	Media		Gratuit	Télévision		
+154	ARD / ZDF	PersoneMorale					
+155	Arte Deutschland TV GmbH	PersoneMorale					
+156	Les Augustins de l’Assomption	PersoneMorale					
+157	Bayard	PersoneMorale					
+158	La Croix	Media			GPE	Quotidien	
+159	Pèlerin	Media			GPE	Hebdomadaire	
+160	Notre temps	Media			GPE	Mensuel	
+161	Jean-Paul Baudecroux	PersonePhysique	178				
+162	NRJ Group	PersoneMorale					
+163	NRJ 12	Media		Gratuit	Télévision		
+164	Chérie 25	Media			Télévision		
+165	NRJ	Media			Radio		National
+166	Rire et Chansons	Media			Radio		National
+167	Chérie FM	Media			Radio		National
+168	Nostalgie	Media			Radio		National
+169	Famille Hutin	PersonePhysique					
+170	Famille Hurbain	PersonePhysique	105				
+171	Crédit Agricole Nord de France	PersoneMorale					
+172	Association pour le soutien des principes de la démocratie humaniste	PersoneMorale					
+173	Groupe SIPA - Ouest	PersoneMorale					
+174	Ouest France	Media			Régional	Quotidien	Régional
+175	Le Courrier de l'Ouest	Media			Régional	Quotidien	Régional
+176	Le Maine libre	Media			Régional	Quotidien	Régional
+177	Presse-Océan	Media			Régional	Quotidien	Régional
+178	La Presse de la Manche	Media			Régional	Quotidien	Régional
+179	Publi Hebdos	Media			Régional	Quotidien et hebdomadaire	Régional
+180	Sofiouest	PersoneMorale					
+181	20 Minutes	Media			GPE	Quotidien	
+182	Groupe Rossel	PersoneMorale					
+183	Groupe Rossel La Voix	PersoneMorale					
+184	La Voix du Nord SA	PersoneMorale					
+185	La Voix du Nord	Media			Régional	Quotidien	Régional
+186	Nord éclair	Media			Régional	Quotidien	Régional
+187	Nord Littoral	Media			Régional	Quotidien	Régional
+188	Courrier picard	Media			Régional	Quotidien	Régional
+189	L'aisne Nouvelle	Media			Régional	Quotidien	Régional
+190	L'Union - L'Ardennais	Media			Régional	Quotidien	Régional
+191	L'Est-éclair - Libération Champagne	Media			Régional	Quotidien	Régional
+192	L'Avenir de l'Artois	Media			Régional	Hebdomadaire	Régional
+193	Les Echos du Touquet	Media			Régional	Hebdomadaire	Régional
+194	Le Journal des Flandres	Media			Régional	Hebdomadaire	Régional
+195	Le Messager	Media			Régional	Hebdomadaire	Régional
+196	L'Essor savoyard	Media			Régional	Hebdomadaire	Régional
+197	Le Pays gessien	Media			Régional	Hebdomadaire	Régional
+198	La Tribune républicaine	Media			Régional	Hebdomadaire	Régional
+199	La Savoie	Media			Régional	Hebdomadaire	Régional
+200	Le Phare Dunkerquois	Media			Régional	Hebdomadaire	Régional
+201	La Semaine dans le Boulonnais	Media			Régional	Hebdomadaire	Régional
+202	Le Réveil de Berck	Media			Régional	Hebdomadaire	Régional
+203	Le Journal de Montreuil	Media			Régional	Hebdomadaire	Régional
+204	L'indicateur	Media			Régional	Hebdomadaire	Régional
+205	L'Echo de la Lys	Media			Régional	Hebdomadaire	Régional
+206	Crédit Mutuel	PersoneMorale					
+207	Groupe EBRA	PersoneMorale					
+208	L'Est républicain	Media			Régional	Quotidien	Régional
+209	Le Républicain lorrain	Media			Régional	Quotidien	Régional
+210	DNA	Media			Régional	Quotidien	Régional
+211	Vosges Matin	Media			Régional	Quotidien	Régional
+212	L'Alsace	Media			Régional	Quotidien	Régional
+213	Le Bien public	Media			Régional	Quotidien	Régional
+214	Le Journal de Saône-et-Loire	Media			Régional	Quotidien	Régional
+215	Le Progrès	Media			Régional	Quotidien	Régional
+216	Le Dauphiné libéré	Media			Régional	Quotidien	Régional
+217	Vaucluse Matin	Media			Régional	Quotidien	Régional
+218	Le Journal de la Haute-Marne	Media			Régional	Quotidien	Régional
+219	Fondation Varenne	PersoneMorale					
+220	Famille Saint-Cricq	PersonePhysique					
+221	Groupe La Montagne	PersoneMorale					
+222	La Montagne	Media			Régional	Quotidien	Régional
+223	Le Populaire du centre	Media			Régional	Quotidien	Régional
+224	Le Journal du centre	Media			Régional	Quotidien	Régional
+225	Le Berry républicain	Media			Régional	Quotidien	Régional
+226	L’Yonne Républicaine	Media			Régional	Quotidien	Régional
+227	L’Echo Républicain	Media			Régional	Quotidien	Régional
+228	Courrier du Loiret	Media			Régional	Hebdomadaire	Régional
+229	L’Eclaireur du Gâtinais	Media			Régional	Hebdomadaire	Régional
+230	Régional de Cosne	Media			Régional	Hebdomadaire	Régional
+231	L’Echo Charitois	Media			Régional	Hebdomadaire	Régional
+232	Pays Roannais	Media			Régional	Hebdomadaire	Régional
+233	La Liberté	Media			Régional	Hebdomadaire	Régional
+234	Journal de Gien	Media			Régional	Hebdomadaire	Régional
+235	La République du Centre	Media			Régional	Quotidien	Régional
+236	Groupe NRCO	PersoneMorale					
+237	Nouvelle République du Centre	Media			Régional	Quotidien	Régional
+238	Centre Presse	Media			Régional	Quotidien	Régional
+239	TV Tours	Media		Télévision	Régional		Régional
+240	Famille Baylet	PersonePhysique					
+241	Groupe La Dépêche	PersoneMorale					
+242	La Dépêche du midi	Media			Régional	Quotidien	Régional
+243	Le Petit Bleu	Media			Régional	Quotidien	Régional
+244	La Nouvelle République des Pyrénées	Media			Régional	Quotidien	Régional
+245	Le Villefranchois	Media			Régional	Hebdomadaire	Régional
+246	La Gazette du Comminges	Media			Régional	Hebdomadaire	Régional
+247	Les Journaux du midi	PersoneMorale					
+248	Midi libre	Media			Régional	Quotidien	Régional
+249	L'Indépendant	Media			Régional	Quotidien	Régional
+250	Centre Presse Aveyron	Media			Régional	Quotidien	Régional
+251	Famille Lemoine	PersonePhysique					
+252	Groupe Sud Ouest	PersoneMorale					
+253	Sud Ouest	Media			Régional	Quotidien	Régional
+254	Charente Libre	Media			Régional	Quotidien	Régional
+255	Dordogne Libre	Media			Régional	Quotidien	Régional
+256	Haute Saintonge	Media			Régional	Hebdomadaire	Régional
+257	Haute Gironde	Media			Régional	Hebdomadaire	Régional
+258	Le Résistant	Media			Régional	Hebdomadaire	Régional
+259	L'Hebdo de Charente-Maritime	Media			Régional	Hebdomadaire	Régional
+260	La Dépêche du Bassin	Media			Régional	Hebdomadaire	Régional
+261	Le Journal du Médoc	Media			Régional	Hebdomadaire	Régional
+262	Pyrénées Presse	PersoneMorale					
+263	La République des Pyrénées	Media			Régional	Quotidien	Régional
+264	L'Eclair	Media			Régional	Quotidien	Régional
+265	Édouard Coudurier	PersonePhysique					
+266	Groupe Télégramme	PersoneMorale					
+267	Le Télégramme	Media			Régional	Quotidien	Régional
+268	Le Poher	Media			Régional	Quotidien	Régional
+269	Tébéo	Media		Télévision	Régional		Régional
+270	Tébésud	Media		Télévision	Régional		Régional
+271	Le Mensuel de Rennes	Media			Régional	Mensuel	Régional
+272	Sept Jours à Brest	Media			Régional	Hebdomadaire	Régional
+273	Le Journal des entreprises	Media			Régional	Mensuel	Régional
+274	Bretagne magazine	Media			Régional	Hebdomadaire	Régional
+275	Bernard Tapie	PersonePhysique					
+276	Nethys	PersoneMorale					
+277	Publifin	PersoneMorale					
+278	Province de Liège	Etat					
+279	Groupe La Provence	PersoneMorale					
+280	Nice-Matin	Media			Régional	Quotidien	Régional
+281	Corse Matin	Media			Régional	Quotidien	Régional
+282	La Provence	Media			Régional	Quotidien	Régional
+283	Jean-Louis Louvel	PersonePhysique					
+284	Société Normande d'Information et de Communication	PersoneMorale					
+285	Paris-Normandie	Media			Régional	Quotidien	Régional
+286	Havre Libre	Media			Régional	Quotidien	Régional
+287	Le Progrès de Fécamp	Media			Régional	Quotidien	Régional
+288	Le Progrès de Fécamp	Media			Régional	Quotidien	Régional
+289	Liberté Dimanche	Media			Régional	Hebdomadaire	Régional
+290	Havre Dimanche	Media			Régional	Hebdomadaire	Régional
+291	Normandie Dimanche	Media			Régional	Hebdomadaire	Régional
+292	Philippe Hersant	PersonePhysique					
+293	Éditions Suisses Holding	PersoneMorale					
+294	Groupe Hersant Média	PersoneMorale					
+295	Groupe Filanosa	PersoneMorale					
+296	Rhône Média	PersoneMorale					
+297	La Côte (Nyon)	Media			Suisse		
+298	L'Express (Neuchâtel)	Media			Suisse		
+299	L'Impartial (La Chaux-de-Fonds)	Media			Suisse		
+300	Le Nouvelliste	Media			Suisse		
+301	La Gazette de Martigny	Media			Suisse		
+302	Le Journal de Sierre	Media			Suisse		
+303	France Antilles	Media			Régional	Quotidien	Régional
+304	France Guyane	Media			Régional	Quotidien	Régional
+305	Abdoul Cadjee	PersonePhysique					
+306	Le Journal de l'Île de la Réunion	Media			Régional	Quotidien	Régional
+307	Benjamin et Ariane de Rothschild	PersonePhysique	21				
+308	Lampsane Investissement SA	PersoneMorale					
+309	Slate.fr	Media		Pure player	Site		
+310	Jean-Sébastien Ferjou	PersonePhysique					
+311	Pierre Guyot	PersonePhysique					
+312	Gérard Lignac	PersonePhysique					
+313	Atlantico.fr	Media		Pure player	Site		
+314	Franck Julien	PersonePhysique	132				
+315	Edi Invest	PersoneMorale					
+316	Jean Christophe Tortora	PersonePhysique					
+317	Laurent Alexandre	PersonePhysique					
+318	Hima Groupe	PersoneMorale					
+319	La Tribune	Media			Site		
+320	i24 News	Media			Télévision		
+321	Elle	Media				Hebdomadaire	Féminin
+322	Le Nouveau Magazine littéraire	Media			GPE	Mensuel	

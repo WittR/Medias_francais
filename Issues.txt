@@ -1,0 +1,6 @@
+77	Vincent Bolloré	49,77	Financière de l‘Odet	 => Les apostrophes sont embêtantes (pas les mêmes partout)
+29	Les Nouvelles Éditions	Personne morale	2 => jamais utilisé, doublon avec 12	Les Nouvelles Éditions indépendantes	Personne morale	2	 ? 
+285	Société Normande d’Information et de Communication => Apostrophe différente des autres
+
+128	République française	15	Renault		
+128	République française	15	Renault	zonebourse.com	...	22/07/2018 
