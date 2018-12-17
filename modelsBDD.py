@@ -2,10 +2,12 @@
 import csv
 from neo4j import *
 
+#Authentification base Neo4j
 uri = "bolt://localhost:7687"
 driver = GraphDatabase.driver(uri, auth=("neo4j", "root"))
 
 
+#Importe l'ensemble des acteurs de la table medias_francais.tsv dans la BDD neo4J
 def nodesFromTSV():
     with open('medias_francais.tsv', encoding='utf-8') as tsvfile:
         tx = driver.session().begin_transaction()
@@ -42,7 +44,7 @@ def nodesFromTSV():
                 tx.run(statement, dict)
         tx.commit()
 
-
+#Importe l'ensemble des relations de la base relations_medias_francais.tsv dans la base neo4J
 def edgesFromTSV():
     with open('relations_medias_francais.tsv', encoding='utf-8') as tsvfile:
         reader = csv.DictReader(tsvfile, delimiter='\t')
@@ -59,8 +61,10 @@ def edgesFromTSV():
         tx.commit()
 
 
-# nodesFromTSV()
-# edgesFromTSV()
+nodesFromTSV()
+edgesFromTSV()
+
+#Exporte dans une document TSV les relations depuis la base neo4J
 def exportRelation():
     tx = driver.session().begin_transaction()
     result = tx.run("MATCH (n1)-[r]->(n2) RETURN r")
@@ -83,21 +87,30 @@ def exportRelation():
         w.writerows(list_dic)
 
 
-tx = driver.session().begin_transaction()
-result = tx.run("MATCH (n) RETURN n")
-list_dic = []
-for x in result:
-    dic = {}
-    for y in x:
-        dic['id'] = y.id
-        for z in y.labels:
-            dic['typeLibelle'] = z
-        for z in y:
-            dic[z] = y[z]
-    list_dic.append(dic)
-print(list_dic)
-keys = ['id', 'nom', 'typeLibelle', 'rangChallenges', 'commentaire', 'mediaType', 'mediaPeriodicite', 'mediaEchelle']
-with open('medias_francais2.tsv', 'w', encoding='utf-8') as f:
-    w = csv.DictWriter(f, keys, delimiter='\t', lineterminator='\n')
-    w.writeheader()
-    w.writerows(list_dic)
+#Exporte dans une document TSV les acteurs depuis la base neo4J
+def exportActeur():
+    tx = driver.session().begin_transaction()
+    result = tx.run("MATCH (n) RETURN n")
+    list_dic = []
+    for x in result:
+        dic = {}
+        for y in x:
+            dic['id'] = y.id
+            for z in y.labels:
+                dic['typeLibelle'] = z
+            for z in y:
+                dic[z] = y[z]
+        list_dic.append(dic)
+    print(list_dic)
+    keys = ['id', 'nom', 'typeLibelle', 'rangChallenges', 'commentaire', 'mediaType', 'mediaPeriodicite', 'mediaEchelle']
+    with open('medias_francais2.tsv', 'w', encoding='utf-8') as f:
+        w = csv.DictWriter(f, keys, delimiter='\t', lineterminator='\n')
+        w.writeheader()
+        w.writerows(list_dic)
+
+
+# #Fonctions :
+# nodesFromTSV()
+# edgesFromTSV()
+# exportRelation()
+# exportActeur()
